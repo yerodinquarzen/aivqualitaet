@@ -1,1 +1,107 @@
-<mxfile host="app.diagrams.net" modified="2020-10-22T11:27:52.634Z" agent="5.0 (Windows)" etag="lgjPEbH2WH85WQAFM_52" version="13.8.1" type="github"><diagram id="I13QSnIsGBPpUAzB9PyT" name="Page-1">5Vpbb6M4FP41eewKMBDy2KTtzGjbarTtzErzMnLAgCcEZ8Fpkv76PQ4Ggk0uTUnTqlIe8MHX833n5tBDo+nyS4Zn8R0LSNKzjGDZQ1c9yzJty+qJnxGsCknfRYUgymggO9WCB/pMpNCQ0jkNSN7oyBlLOJ01hT5LU+LzhgxnGVs0u4Usaa46wxHRBA8+TnTpvzTgcSH1rH4t/0poFJcrm+6geDPFZWd5kjzGAVtsiNB1D40yxnjxNF2OSCKUV+qlGHez5W21sYyk/JABd8vB78Hf6XTw4+vEwr9/3Sd32UU5zRNO5vLEcrd8VaogY/M0IGIWo4eGi5hy8jDDvni7ANBBFvNpAi0THkOW8hs8pYnA+5am8yVMdkvHJOM0JbKDhNkEHQxznrEJGbGEZevl0NhzbEesFNIk2ZDfeKPr0UiMmBDux3K9KMF5LrdWaVg05LlgXbLcqjGzwgEITNiU8GwFXeQAZEjoJHdNV7YXNRNKUbxBgmocluSLqqlrfOBBQvQCuJCG1j324wWhOUh/0myeX1zdXwpzm2egIsv4PvpHw9OfZ09rOIX+SBpcCjOBpi9USf1X4lksRwLNrA7V+oXxl+ci1NC8q+ndadF7KctIgjl9am6gDQu5h++MwtaqDZhOE3bbUeDMGWiXyFGbFqdM1LeUiVxlIo6ziHBtIgAErza6zUSHfPuGbYWnQMCd+3IGzf6o2R8eih0oo8vtsDDMCe+pXK6QPJ7etkbvRxyBoPSgNYffKW3dfkOxF1Y3jHT38OhQQnrmcYR8Sw64GgeulzOWU05ZqtMA8LrFY8g50DAjOX3G4/Uro8kGnNAoheeEhIDlUAQFCiH+UorHjHM2rUggUwk5VR3A98SS7YzezhmzE3ogBcXTgePtzxY2LDNla1MLcB5X8WYDleNN7m3iAFLMzrGONDt1ItM+zOy6Qm2wxa32NfCA37wJUjM9k4huZmZSVJqYD9iRrMXIpjQIxDKtCWQzxdzrvA+yxz25nepT+3puZ7dwS+VAZ6ld6Zo1lEz7E8PkqCnU2WHSC6YhiWgKscl4WE1nEEjIR8JrSFkCj9OOrMpWXCY6N1zW/oj1snqoWZSGnk98f2cZW7wpLw9el2u+TeCz+orRHVsAufsqqa4KINdtBtjBjoKmq6hq6sX4ZcppRNKLR5Lzz+sE1HIUnd1n63Vlp04gwMQLW52A63tkHH5IJ+Aorvz4olMJ4cg7jRNw1VsN4y2cgNPqBCa9EeoN3WwG5moZ36K7j+QNOk7h+s57cwf6FUO37sAhXmC3uQPPGiMIVR/SHZzqDgqptxencge7Ljk7cwf9g9zBl8/sDux2N30+d6BfahWFt/OJUdKunM/utLddYpVn+5Qw9dUL/XPDVN2Vb8ZWN1nDAUdxI74+eCERGoK+YaFEkP43F3+GD7WypHpTziAKLNhwzAKSlrPBfosJm4uAWF95Vgp+CJxzP6YkSKgfE1i1ObfxLNY3/pAFoYko7qDxi1A+m6cTXk43zlpWndWyzviZA+FoGoHAqVuPDMh3JVTfTksGFAuTdfoSA33hCC+mavu/Za+72dv/33pZxjeoa56Ou3our0EnErQH2WQZkCRiKU6ua6mi2brPLVvDJND+QzhfSXXiOWdtXNjMDU/2ZyYcbZ217VKKrJ2LrGxXxy1wvyzvfGmWh/p2k0be7r++tf5vcVNk6fcP39KQTDgt8kLx8QaLU+F83vkVcuMLm8anN5vf5JzDnaCBAuzpIiE066+2Co7U376h6/8B</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-22T11:28:33.500Z" agent="5.0 (Windows)" etag="cQVDPk-gZhkSQSPBt9aY" version="13.8.1" type="github">
+  <diagram id="I13QSnIsGBPpUAzB9PyT" name="Page-1">
+    <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Mx9_9Knm9UHk2a_ZNlMr-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Linux Libertine;fontSize=12;strokeColor=#b85450;fillColor=#F8CECC;sketch=1;glass=0;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="300" y="160" width="60" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="Mx9_9Knm9UHk2a_ZNlMr-3" value="Nachweis Virus-DNA durch PCR" style="curved=1;endArrow=classic;html=1;fontFamily=Linux Libertine;fontSize=12;" parent="1" edge="1">
+          <mxGeometry x="-0.8633" y="6" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="450" as="sourcePoint" />
+            <mxPoint x="720" y="460" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="230" />
+              <mxPoint x="590" y="330" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mx9_9Knm9UHk2a_ZNlMr-4" value="Tag 0" style="endArrow=classic;html=1;fontFamily=Linux Libertine;fontSize=12;" parent="1" edge="1">
+          <mxGeometry x="-0.8667" y="-20" relative="1" as="geometry">
+            <mxPoint x="60" y="460" as="sourcePoint" />
+            <mxPoint x="810" y="460" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mx9_9Knm9UHk2a_ZNlMr-6" value="Exposition" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=bottom;" parent="Mx9_9Knm9UHk2a_ZNlMr-4" connectable="0" vertex="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mx9_9Knm9UHk2a_ZNlMr-8" value="" style="endArrow=none;dashed=1;html=1;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="520" as="sourcePoint" />
+            <mxPoint x="360" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mx9_9Knm9UHk2a_ZNlMr-9" value="Tag 7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Linux Libertine;" parent="1" vertex="1">
+          <mxGeometry x="360" y="470" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mx9_9Knm9UHk2a_ZNlMr-10" value="Tag 14" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Linux Libertine;" parent="1" vertex="1">
+          <mxGeometry x="520" y="470" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mx9_9Knm9UHk2a_ZNlMr-11" value="Beginn Symptome" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Linux Biolinum;" parent="1" vertex="1">
+          <mxGeometry x="340" y="530" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mx9_9Knm9UHk2a_ZNlMr-12" value="" style="curved=1;endArrow=classic;html=1;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="450" as="sourcePoint" />
+            <mxPoint x="650" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="466" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mx9_9Knm9UHk2a_ZNlMr-13" value="Antigen-Test" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Linux Biolinum;" parent="1" vertex="1">
+          <mxGeometry x="400" y="370" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mx9_9Knm9UHk2a_ZNlMr-14" value="" style="curved=1;endArrow=classic;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="460" as="sourcePoint" />
+            <mxPoint x="820" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mx9_9Knm9UHk2a_ZNlMr-15" value="Antikörper IgM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Linux Libertine;" parent="1" vertex="1">
+          <mxGeometry x="750" y="370" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mx9_9Knm9UHk2a_ZNlMr-16" value="" style="curved=1;endArrow=classic;html=1;fillColor=#d5e8d4;strokeColor=#82b366;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="460" as="sourcePoint" />
+            <mxPoint x="810" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="690" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mx9_9Knm9UHk2a_ZNlMr-17" value="Antikörper IgG" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Linux Libertine;" parent="1" vertex="1">
+          <mxGeometry x="740" y="300" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mx9_9Knm9UHk2a_ZNlMr-18" value="Tag 5" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Linux Libertine;" parent="1" vertex="1">
+          <mxGeometry x="260" y="470" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mx9_9Knm9UHk2a_ZNlMr-19" value="Tag 21" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Linux Libertine;" parent="1" vertex="1">
+          <mxGeometry x="710" y="470" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Mx9_9Knm9UHk2a_ZNlMr-20" value="&lt;h1&gt;&lt;font face=&quot;Linux Biolinum&quot;&gt;Testmethoden&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;Unterschiedliche Testmethoden zum jeweiligen Zeitpunkt&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=Linux Libertine;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="50" y="160" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Mx9_9Knm9UHk2a_ZNlMr-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fontFamily=Linux Libertine;fontSize=12;" parent="1" source="Mx9_9Knm9UHk2a_ZNlMr-24" target="Mx9_9Knm9UHk2a_ZNlMr-21" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="374" y="180" />
+              <mxPoint x="374" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Mx9_9Knm9UHk2a_ZNlMr-24" value="Infektiös ohne Symptome" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Linux Libertine;fontSize=12;" parent="1" vertex="1">
+          <mxGeometry x="394" y="170" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

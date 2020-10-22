@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-22T11:28:33.500Z" agent="5.0 (Windows)" etag="cQVDPk-gZhkSQSPBt9aY" version="13.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-22T11:29:54.388Z" agent="5.0 (Windows)" etag="dtVHuOk8YjoNS_5Pa1l0" version="13.8.1" type="github">
   <diagram id="I13QSnIsGBPpUAzB9PyT" name="Page-1">
     <mxGraphModel dx="1422" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mx9_9Knm9UHk2a_ZNlMr-13" value="Antigen-Test" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Linux Biolinum;" parent="1" vertex="1">
-          <mxGeometry x="400" y="370" width="40" height="20" as="geometry" />
+          <mxGeometry x="394" y="340" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Mx9_9Knm9UHk2a_ZNlMr-14" value="" style="curved=1;endArrow=classic;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
